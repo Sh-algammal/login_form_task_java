@@ -17,33 +17,33 @@ handling.
 
 ### Login form
 
-![Login form](screenshots/login-form.png)
+![Login form](Java-AWT-Login-Form-README-Package/screenshots/login-form.png)
 
 ### Empty fields validation
 
-![Empty fields validation](screenshots/empty-fields-validation.png)
+![Empty fields validation](Java-AWT-Login-Form-README-Package/screenshots/empty-fields-validation.png)
 
 ### Invalid username or password
 
 ![Invalid username or
-password](screenshots/invalid-username-or-password.png)
+password](Java-AWT-Login-Form-README-Package/screenshots/invalid-username-or-password.png)
 
 ### Incorrect password attempts
 
-![Incorrect password attempts](screenshots/wrong-password-attempts.png)
+![Incorrect password attempts](Java-AWT-Login-Form-README-Package/screenshots/wrong-password-attempts.png)
 
 ### Incorrect role
 
-![Incorrect role](screenshots/incorrect-role.png)
+![Incorrect role](Java-AWT-Login-Form-README-Package/screenshots/incorrect-role.png)
 
 ### Login disabled after three incorrect passwords
 
 ![Login disabled after three incorrect
-passwords](screenshots/login-disabled-after-three-attempts.png)
+passwords](Java-AWT-Login-Form-README-Package/screenshots/login-disabled-after-three-attempts.png)
 
 ### Successful login
 
-![Successful login](screenshots/successful-login.png)
+![Successful login](Java-AWT-Login-Form-README-Package/screenshots/successful-login.png)
 
 ## Test Accounts
 
